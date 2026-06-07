@@ -1,5 +1,5 @@
 ## Candidates ##
-
+*Founder Playbook candidate: a reusable lesson about building CSC or working effectively with AI*
 ---
 **June 2026**
 
