@@ -1,87 +1,78 @@
 
 # Caring Sensor Community
 
-**We develop, evaluate, and share practical approaches to homecare sensor networks — helping people remain safely at home while strengthening trust, consent, accessibility, and human connection.**
-
----
+**We develop, evaluate, and share practical approaches to homecare sensor networks. Our purpose is to help people remain safely at home while strengthening trust, consent, accessibility, and human connection.**
 
 ## What This Is
 
-The Caring Sensor Community (CSC) is an open community of caregivers, designers, developers, researchers, and families building better tools for aging at home.
+The Caring Sensor Community (CSC) is an emerging open community of caregivers, designers, developers, researchers, families, and neighbors exploring better tools for aging at home.
 
-We believe the best tools for hard human problems come from the people living those problems — not from boardrooms. Everything we make is shared. Everyone who contributes puts their name on it.
+We begin with a simple question:
+
+**Can modest technology help trusted people notice when attention may be needed?**
+
+CSC is not a surveillance project. It is not a replacement for family, caregivers, or neighbors. It is not a promise that technology can eliminate risk.
 
 **Sensors advise. People decide.**
 
----
+## Repository Working Rule
 
-## What's in This Repository
+The `main` branch contains the canonical current versions of CSC documents.
 
-This is the foundation repository for CSC. It is not primarily a codebase — it is a living record of how we think, what we've decided, and how we work together.
+A document may be canonical and still be labeled **Draft**. “Canonical” means that it is the recognized current version. It does not mean that discussion and improvement have ended.
 
+## Repository Structure
+
+```text
+caring-sensor-community/
+├── README.md
+├── docs/          # Canonical current documents, including drafts
+├── proposals/     # Developed ideas awaiting a decision
+└── seedbed/       # Exploratory captures, questions, and early concepts
 ```
-csc-foundation/
-├── docs/           # Core documents: mission, philosophy, governance, legal structure
-├── design/         # Design decisions, prompts, visual direction, brand guidelines
-├── journal/        # Founder journal — strategy conversations and decisions over time
-└── community/      # Guides for contributors, community norms, onboarding materials
-└── proposals/      # proposals
-|__ seedbed/        # dreams, wishes, questions, theories
 
-```
+Product code may eventually live in separate repositories. Links can be added as those repositories are created.
 
-Product code lives in separate repositories. Links will be added here as they are created.
+## Current Commitments
 
----
+CSC has adopted the following early commitments:
 
-## Our Philosophy
+**Local control of household data.** The resident, household, and trusted care circle should retain meaningful control over household data.
 
-This project is inspired by the Cathedral and the Bazaar — the idea that open, community-built systems can outperform closed ones when the problem is complex enough and the people care enough.
+**Cathedral and Bazaar.** CSC will combine stable, trusted foundations with open collaboration, community contribution, and healthy competition.
 
-We are building the cathedral: a stable, trusted, privacy-first infrastructure. The community builds the bazaar: plugins, sensors, workflows, templates, and care tools contributed by people who understand the problem from the inside.
+Additional accepted decisions are recorded in the CSC Decision Log.
 
-What keeps this from becoming every other open-source project that dies from neglect: AI handles the maintenance that communities are worst at — documentation, summarization, duplicate detection, keeping things coherent over time. Contributors create. The system stays alive.
+## Working Principles
 
----
+The following principles guide our exploration. They remain open to refinement as the community develops:
 
-## Core Principles
+**Care should support relationships.** A sensor reading matters only when it helps people respond more wisely and humanely.
 
-**Privacy as architecture, not policy.** Local-first data. User control. No monetization of care data. Ever.
+**Quiet over clever.** The best care tools should fit gently into ordinary life.
 
-**Open over closed.** If we build it, we share it. If the community builds it, they own it.
+**Trust is earned slowly.** This is someone’s home and someone’s person. We proceed carefully.
 
-**Quiet over clever.** The best care tools are the ones people forget are there.
+**Openness matters.** CSC is exploring how open tools, shared learning, and community stewardship can make homecare technology more transparent, adaptable, and humane.
 
-**Trust earned slowly.** This is someone's home and someone's person. We proceed carefully.
-
----
+**AI may help sustain the commons.** CSC is exploring how AI-assisted tools could reduce maintenance burden through documentation, summarization, onboarding, and knowledge organization while preserving human judgment and accountability.
 
 ## Current Stage
 
-Early building. First conversations. May 2026.
+CSC is in its early formation stage as of June 2026.
 
-We are currently:
-- Forming the founding board
-- Defining the community governance model
-- Building the first product experience (the Family Feed)
-- Looking for early members, collaborators, and one real pilot family
-
----
-
-## How to Get Involved
-
-Read [`community/CONTRIBUTING.md`](community/CONTRIBUTING.md) to understand how we work together.
-
-If something here resonates with your experience — as a caregiver, designer, developer, researcher, or family member — we want to hear from you.
-
-**caringsensorcommunity@gmail.com**
-
----
+Current work includes clarifying the mission, establishing working practices, forming an initial community, evaluating homecare use cases, and developing proposals for future discussion.
 
 ## Founder
 
-**Mark Shea** — Right at Home operator, Microsoft collaboration systems, UW digital media. Building this because he has sat with families trying to keep someone they love safe at home, and watched them oscillate between helplessness and over-vigilance. The tools available were either clinical, creepy, or both.
+**Mark Shea** is a technologist, educator, community systems builder, and caregiving advocate. His experience includes operating a home-care franchise, working on collaboration and knowledge systems at Microsoft, and studying digital media at the University of Washington.
+
+CSC grows from a long-standing question: how can technology support human care without turning people into surveillance targets?
+
+## Contact
+
+**[caringsensorcommunity@gmail.com](mailto:caringsensorcommunity@gmail.com)**
 
 ---
 
-*This repository is a living document. It will change as we learn.*
+*This repository will change as we learn. Accepted decisions, proposals, assumptions, and exploratory ideas should remain visibly distinct.*
