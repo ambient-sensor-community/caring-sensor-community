@@ -69,6 +69,16 @@ Current work includes clarifying the mission, establishing working practices, fo
 
 CSC grows from a long-standing question: how can technology support human care without turning people into surveillance targets?
 
+## Learn More
+
+- [CSC Overview](docs/overview/csc-overview.md)
+- [CSC Overview Diagram](docs/overview/csc-overview-diagram.png)
+- [Mission and Philosophy](docs/foundation/mission-and-philosophy.md)
+- [Founder Story](docs/foundation/founder-story.md)
+- [Decision Log](docs/governance/decision-log.md)
+- [Seedbed](docs/seedbed/README.md)
+- [Founder Playbook](docs/working-practices/founder-playbook.md)
+
 ## Contact
 
 **[caringsensorcommunity@gmail.com](mailto:caringsensorcommunity@gmail.com)**
