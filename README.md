@@ -23,13 +23,38 @@ A document may be canonical and still be labeled **Draft**. “Canonical” mean
 
 ## Repository Structure
 
-```text
-caring-sensor-community/
+
+```caring-sensor-community/
+│
 ├── README.md
-├── docs/          # Canonical current documents, including drafts
-├── proposals/     # Developed ideas awaiting a decision
-└── seedbed/       # Exploratory captures, questions, and early concepts
+│
+├── docs/
+│   │
+│   ├── overview/
+│   │   ├── csc-overview.md
+│   │   └── csc-overview-diagram.png
+│   │
+│   ├── foundation/
+│   │   ├── mission-and-philosophy.md
+│   │   └── founder-story.md
+│   │
+│   ├── governance/
+│   │   └── decision-log.md
+│   │
+│   ├── about/
+│   │   └── mark-shea-founder-cv.pdf
+│   │
+│   ├── working-practices/
+│   │   └── founder-playbook.md
+│   │
+│   └── seedbed/
+│       ├── README.md
+│       └── 001-csc-presence-lamp.md
+│
+└── ...
 ```
+
+
 
 Product code may eventually live in separate repositories. Links can be added as those repositories are created.
 
