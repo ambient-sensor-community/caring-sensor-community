@@ -50,5 +50,23 @@ Trust is earned through participation, demonstrated competence, and stewardship,
 
 --- 
 
+**Seedbed capture**
+
+*June 2026*
+
+**What we explored**: A humble first-contact post for r/homeassistant.
+
+**What appears promising**: Approach the community as a learner seeking critique, related work, and possible fellow travelers rather than as a founder unveiling a finished organization.
+
+**Significant assumption**: A discussion-first post will produce better early relationships than an explicit recruitment post.
+
+**Risk or tension**: Even a sincere invitation may be interpreted as self-promotion under the subreddit rules.
+
+**Founder Playbook candidate**: When entering an established open-source community, begin by showing respect for existing work, asking what you have missed, and inviting criticism before asking for commitment.
+
+**Possible active task**: Send the short moderator message first. This becomes an active task only when you decide to do it.
+
+--- 
+
 
 
