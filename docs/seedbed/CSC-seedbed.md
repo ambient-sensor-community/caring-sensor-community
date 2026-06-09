@@ -28,5 +28,27 @@
 
 Trust is earned through participation, demonstrated competence, and stewardship, not merely by showing up.
 
----
+--- 
+
+**Seedbed capture**
+
+*June 2026*
+
+**What we explored**: Whether CSC should form separately, become an OHF project, or develop as an aligned external initiative.
+
+**What appears promising**: CSC and OHF are strongly aligned around local control, privacy, openness, interoperability, and resistance to surveillance capitalism. Home Assistant and ESPHome appear to be natural foundations for early CSC prototypes.
+
+**Significant tension**: CSC’s distinctive value lies partly outside ordinary smart-home software: aging-in-place ethics, care circles, human response plans, certification, accessibility, and community stewardship.
+
+**Research thread**: Learn how OHF evaluates external projects, collaborations, and possible project donations. Identify the best point of contact and the kind of artifact that would make an introductory conversation useful.
+
+**Provisional proposal**: Develop CSC initially as an independent care-centered initiative designed for compatibility with the Open Home ecosystem. Revisit organizational alignment after a small prototype or integration exists.
+
+**Parking-lot question**: Could CSC eventually contribute a Home Assistant integration, care-template framework, presence-sharing standard, or privacy-focused aging-in-place working group to the broader Open Home ecosystem?
+
+**Not an active task**: No organizational commitment or outreach to OHF is implied yet.
+
+--- 
+
+
 
