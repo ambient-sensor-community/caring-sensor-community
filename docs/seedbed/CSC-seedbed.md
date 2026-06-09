@@ -16,3 +16,17 @@
 
 ---
 
+**Seedbed Proposal**:
+
+*June 2026*
+
+**Title**: Reputation and Content Maturity Framework
+
+**Status**: Exploratory
+
+**Core idea**: Contributors earn reputation through multiple forms of participation. Community artifacts such as prompts move through maturity levels from Sandbox to Release. Advancement requires increasing levels of technical review, ethical review, community testing, and stewardship approval.
+
+Trust is earned through participation, demonstrated competence, and stewardship, not merely by showing up.
+
+---
+
